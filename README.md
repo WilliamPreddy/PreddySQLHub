@@ -1,4 +1,4 @@
-## Analyzing data, using PostgreSQL, from Rockbuster Stealth
+## Analyzing data, using PostgreSQL, for Rockbuster Stealth
 
 ### Objective
 
