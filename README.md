@@ -1,0 +1,2 @@
+# PreddySQLHub
+SQL queries
