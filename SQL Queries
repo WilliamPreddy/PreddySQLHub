@@ -1,4 +1,4 @@
-Identifying duplicates in SQL
+# Identifying duplicates in SQL
 
 SELECT title, release_year, 
 language_id, rental_duration, 
