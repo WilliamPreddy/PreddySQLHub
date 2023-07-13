@@ -1,0 +1,11 @@
+SELECT MODE() WITHIN GROUP (ORDER BY first_name) AS 
+first_name_mode_value,
+ MODE() WITHIN GROUP (ORDER BY last_name) AS 
+last_name_mode_value,
+ MODE() WITHIN GROUP (ORDER BY create_date) 
+AS create_date_mode_value,
+ MODE() WITHIN GROUP (ORDER BY last_update) 
+AS last_update_mode_value,
+ MODE() WITHIN GROUP (ORDER BY active) AS 
+active_mode_value
+FROM customer
