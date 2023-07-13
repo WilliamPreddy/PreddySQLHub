@@ -1,3 +1,5 @@
+# This query finds the min, max, average, and count from the Rockbuster library of films
+
 SELECT MIN(rental_duration)AS min_rental_duration,
  MAX(rental_duration)AS max_rental_duration,
  AVG(rental_duration)AS avg_rental_duration,
