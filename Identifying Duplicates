@@ -1,4 +1,4 @@
-# Identifying duplicates in SQL
+# Identifying duplicates
 
 SELECT title, release_year, 
 language_id, rental_duration, 
