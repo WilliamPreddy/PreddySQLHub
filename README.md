@@ -1,4 +1,4 @@
-# Analyzing data, using PostgreSQL, from Rockbuster Stealth
+## Analyzing data, using PostgreSQL, from Rockbuster Stealth
 
 ### Objective
 
@@ -10,7 +10,4 @@ The relational database comprised of 15 tables of data that include information 
 
 ### Tools
 
-PostgreSQL/pgAdmin
-DBVisualizer
-Tableau
-Excel
+PostgreSQL/pgAdmin, DBVisualizer, Tableau, and Excel
